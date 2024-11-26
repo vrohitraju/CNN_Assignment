@@ -1,0 +1,3 @@
+This project involves building a Convolutional Neural Network (CNN) to detect melanoma and classify skin conditions into 9 categories using the ISIC dataset. The workflow includes loading and preprocessing datasets, normalizing images, augmenting data to handle class imbalances, and training a custom CNN model. Performance evaluation includes analyzing accuracy, loss metrics, and addressing overfitting using data augmentation techniques. The project aims to provide a robust solution for skin cancer detection, assisting dermatologists in early diagnosis. The notebook integrates TensorFlow, Python libraries, and GitHub for version control, making it a comprehensive machine learning project for healthcare applications.
+
+
